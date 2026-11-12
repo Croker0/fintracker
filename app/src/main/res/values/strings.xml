@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ФинТрекер</string>
+    <string name="nav_dashboard">Главная</string>
+    <string name="nav_transactions">Операции</string>
+    <string name="nav_stats">Аналитика</string>
+    <string name="nav_categories">Категории</string>
+    <string name="nav_settings">Настройки</string>
+
+    <string name="notification_channel_reminders">Напоминания</string>
+    <string name="notification_channel_reminders_desc">Ежедневное напоминание записать расходы</string>
+    <string name="notification_reminder_title">Не забудьте про финансы</string>
+    <string name="notification_reminder_text">Запишите траты за день — это займёт меньше минуты.</string>
+    <string name="notification_sync_title">Данные сохранены</string>
+    <string name="notification_sync_text">Резервная копия обновлена.</string>
+
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_export">Экспорт</string>
+    <string name="action_all">Все</string>
+    <string name="action_income">Доходы</string>
+    <string name="action_expense">Расходы</string>
+
+    <string name="share_report_chooser">Поделиться отчётом</string>
+    <string name="export_error">Не удалось экспортировать данные</string>
+    <string name="export_done">Файл сформирован</string>
+</resources>

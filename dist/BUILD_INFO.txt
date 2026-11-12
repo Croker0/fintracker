@@ -1,0 +1,11 @@
+﻿FinTracker 1.0.0 (debug)
+Собран: 13.11.2026
+JDK 17 · Gradle 8.7 · AGP 8.5.2
+minSdk 24 · targetSdk 34
+Размер: 7,15 МБ
+SHA-256: bf37171c3fbfc37e947c43a202bcd0c88f98e31ba274e162f363c758ed56bd0e
+
+Установка:
+adb install -r FinTracker-debug.apk
+
+Подпись: debug (для учебного проекта и установки на устройство).
