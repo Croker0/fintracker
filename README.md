@@ -1,5 +1,7 @@
 # ФинТрекер — трекер личных финансов
 
+[![Android CI](https://github.com/Croker0/fintracker/actions/workflows/android.yml/badge.svg)](https://github.com/Croker0/fintracker/actions/workflows/android.yml)
+
 Android-приложение для учёта доходов и расходов: категории, теги, быстрый ввод,
 сводка по периодам, наглядные графики и экспорт отчёта.
 
@@ -92,7 +94,7 @@ flowchart TD
 Требования: **Android Studio Ladybug или новее**, **JDK 17**, Android SDK **34**.
 
 ```bash
-git clone https://github.com/<login>/fintracker.git
+git clone https://github.com/Croker0/fintracker.git
 cd fintracker
 ```
 

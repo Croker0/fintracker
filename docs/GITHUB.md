@@ -1,8 +1,20 @@
 # Публикация проекта на GitHub
 
-Репозиторий уже инициализирован локально и содержит первый коммит. Осталось создать удалённый репозиторий и выполнить `push`.
+Репозиторий опубликован: **https://github.com/Croker0/fintracker**  
+Локальный репозиторий содержит первый коммит и настроенный `origin`.
 
-## Вариант 1 — через GitHub CLI (рекомендуется)
+## Обновление после изменений
+
+```powershell
+cd W:\DSH\fintracker
+git add .
+git commit -m "docs: update project"
+git push
+```
+
+## Если репозиторий нужно создать заново
+
+### Вариант 1 — через GitHub CLI (рекомендуется)
 
 ```powershell
 # один раз: установка и вход в аккаунт
@@ -17,7 +29,7 @@ gh repo create fintracker --public --source . --remote origin --push
 Если репозиторий уже создан на github.com:
 
 ```powershell
-git remote add origin https://github.com/<ЛОГИН>/fintracker.git
+git remote add origin https://github.com/Croker0/fintracker.git
 git push -u origin main
 ```
 
@@ -28,7 +40,7 @@ git push -u origin main
 
 ```powershell
 cd W:\DSH\fintracker
-git remote add origin https://github.com/<ЛОГИН>/fintracker.git
+git remote add origin https://github.com/Croker0/fintracker.git
 git branch -M main
 git push -u origin main
 ```
