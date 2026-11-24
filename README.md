@@ -162,6 +162,7 @@ app/src/main/java/ru/fintracker/
 - [Дизайн-система и экраны](docs/DESIGN.md) — Давлетханов
 - [Архитектура и модель данных](docs/ARCHITECTURE.md) — Штефан, Кислов
 - [Команда и процесс](docs/TEAM.md)
+- [Вопросы на защите](docs/DEFENSE_QA.md)
 - [План тестирования](docs/TEST_PLAN.md)
 - [Публикация на GitHub](docs/GITHUB.md)
 - [Презентация проекта](presentation/FinTracker.pptx)
